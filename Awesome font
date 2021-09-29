@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset= "UTF-8">
+        <meta keywords= "HTML, DOM, SEMANTICTAG">
+        <title> Introduction to semantic tags</title>
+        <meta name="discription" content= "Introduction to HTML Semantic tags">
+        <meta name="keywords" content="HTML, DON, HTML tags, attributes">
+        <meta name="author" content="Olyana Mushe">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="https://kit.fontawesome.com/27373de14f.js" crossorigin="anonymous"></script>"
+
+    </head>
+    <body>
+        <header>
+            <h1>Font Awesome Demo</h1>
+        </header>
+
+        <main>
+            <p>This page will create a footer with font awesome icons for social media links</p>
+        </main>
+
+        <section>
+            <i class="fab fa-facebook"></i>
+        </section>
+        
+        <footer>
+            <p>Log in to your favorite social media website and leave a like and comment </p>
+            <a href= "https://twitter.com" aria-label="Twitter"> <i class="fab fa-twitter"> </i></a>
+            <a href= "https://www.instagram.com"><i class="fab fa-instagram"></i> </a>
+            <a href="https://www.linkedin.com"><i class="fab fa-linkedin-in"></i></a>
+            <a href="https://www.youtube.com"><i class="fab fa-youtube"></i></a>
+            <a href="https://www.facebook.com"><i class="fab fa-facebook"></i></a>
+        </footer>
+
+
+
+    </body>
+</html>
